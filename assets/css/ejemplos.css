@@ -1,11 +1,11 @@
 .imagen {
-  background-image: url(/assets/img/alura.png);
+  background-image: url(assets/img/alura.png);
   background-size: cover;
   width: 200px;
   height: 100px;
 }
 .imagen2 {
-  background-image: url("/assets/img/telefono.png");
+  background-image: url("assets/img/telefono.png");
   background-size: cover;
   width: 200px;
   height: 100px;
