@@ -1,0 +1,12 @@
+.imagen {
+  background: url(/assets/img/alura.png);
+  background-size: cover;
+  width: 200px;
+  height: 100px;
+}
+.imagen2 {
+  background: url("/assets/img/telefono.png");
+  background-size: cover;
+  width: 200px;
+  height: 100px;
+}

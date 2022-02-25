@@ -1,0 +1,12 @@
+.imagen3 {
+  background: url(/assets/img/portafolio.jpeg);
+  background-size: contain;
+  width: 200px;
+  height: 100px;
+}
+.imagen4 {
+  background: url("/assets/img/encriptador.jpeg");
+  background-size: cover;
+  width: 200px;
+  height: 100px;
+}
