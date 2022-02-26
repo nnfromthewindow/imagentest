@@ -1,5 +1,9 @@
 .imagen3 {
+<<<<<<< HEAD
   background-image: url(../img/portafolio.jpeg);
+=======
+  background-image: url("../img/portafolio.jpeg");
+>>>>>>> 2b184cb554ad96724926d2daa0d4ac8073df6ad0
   background-size: contain;
   width: 200px;
   height: 100px;
